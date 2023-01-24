@@ -3,12 +3,8 @@ decisions, duplicating tiny mistakes, and rationalizing little excuses, our smal
 choices compound into toxic results. It’s the accumulation of many missteps—a
 
 
-<<<<<<< HEAD
 i will make the changes on 24 jan ...
 
-=======
-i make the changes on 24 jan in recentbranch
->>>>>>> 5148e174778f28c95452bd67665211c676d98f05
 1 percent decline here and there—that eventually leads to a problem.
 The impact created by a change in your habits is similar to the effect of
 shifting the route of an airplane by just a few degrees. Imagine you are flying
@@ -17,8 +13,3 @@ heading just 3.5 degrees south, you will land in Washington, D.C., instead of
 New York. Such a small change is barely noticeable at takeoff—the nose of the
 airplane moves just a few feet—but when magnified across the entire United
 States, you end up hundreds of miles apart.
-<<<<<<< HEAD
-=======
-
-
->>>>>>> 5148e174778f28c95452bd67665211c676d98f05
