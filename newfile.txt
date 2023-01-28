@@ -1,1 +1,2 @@
-This is some content to merge
+This is some content
+Example 2 line
