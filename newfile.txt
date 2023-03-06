@@ -1,1 +1,2 @@
 This is the new file in branch named feature/conclusion.
+Added some text to create conflict.
