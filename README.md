@@ -8,4 +8,4 @@ After cloning the repo, your task is to:
 3. Book a one on one slot with the resource mentioned in the worksheet.
 4. Hello guys my name is Ajay
 5. Look for the changes
-6. OHOOOoooooo!!
+6. OHOOO!
