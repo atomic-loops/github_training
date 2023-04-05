@@ -7,3 +7,4 @@ After cloning the repo, your task is to:
 2. Purposely create a merge conflict in the repo and resolve it using git command line.
 3. Book a one on one slot with the resource mentioned in the worksheet.
 4. Hello guys my name is Ajay
+5. ajay
