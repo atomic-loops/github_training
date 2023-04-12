@@ -11,3 +11,11 @@ Habits are a double-edged sword. Bad habits can cut you down just as easily
 as good habits can build you up, which is why understanding the details is
 crucial. You need to know how habits work and how to design them to your
 liking, so you can avoid the dangerous half of the blade.
+
+Quick start to react:
+How to create and nest components
+How to add markup and styles
+How to display data
+How to render conditions and lists
+How to respond to events and update the screen
+How to share data between components
