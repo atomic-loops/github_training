@@ -13,4 +13,8 @@ crucial. You need to know how habits work and how to design them to your
 liking, so you can avoid the dangerous half of the blade.
 
 
+<<<<<<< HEAD
 Salim Shaikh
+=======
+salim shaikh Diggi
+>>>>>>> newBranch
