@@ -19,8 +19,8 @@ the impact they deliver over the months and years can be enormous. It is only
 when looking back two, five, or perhaps ten years later that the value of good
 habits and the cost of bad ones becomes strikingly apparent.
 
-<<<<<<< HEAD
 salim
-=======
 Sufiyan
->>>>>>> newbranch
+
+
+SUFIYAN
