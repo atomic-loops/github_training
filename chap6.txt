@@ -33,4 +33,9 @@ habits fall by the wayside. But in order to make a meaningful difference, habits
 need to persist long enough to break through this plateau—what I call the
 Plateau of Latent Potential.
 
+<<<<<<< HEAD
 sufiyan
+=======
+
+Ajay
+>>>>>>> feature
