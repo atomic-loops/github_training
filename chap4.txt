@@ -29,10 +29,8 @@ My name Sufiyan Shaikh Diggi
 
 Atomic Loops   SUfi
 
-<<<<<<< HEAD
 
-Sana
-=======
-Sajaj
-bajaj
->>>>>>> sana
+Sana 
+
+
+ Sana Shaikh
