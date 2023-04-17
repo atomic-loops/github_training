@@ -22,8 +22,3 @@ New York. Such a small change is barely noticeable at takeoff—the nose of the
 airplane moves just a few feet—but when magnified across the entire United
 States, you end up hundreds of miles apart.
 
-<<<<<<< HEAD
-salim shaikh
-=======
-SUfiyan
->>>>>>> feature
