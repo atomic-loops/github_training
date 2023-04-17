@@ -22,3 +22,21 @@ crack showing in it. Yet at the hundred and first blow it will split in two, and
 know it was not that last blow that did it—but all that had gone before.”
 
 
+<<<<<<< HEAD
+=======
+Mh
+
+
+
+
+
+newone for merge
+
+
+
+
+
+
+
+ feature branch
+>>>>>>> feature
