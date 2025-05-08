@@ -8,4 +8,4 @@ After cloning the repo, your task is to:
 3. Book a one on one slot with the resource mentioned in the worksheet.
 
 ## updated by gaurav
-updated by gaurav
+updated by gaurav shende
