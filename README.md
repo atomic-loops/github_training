@@ -1,4 +1,4 @@
-# github_training
+Adding a new feature over here
 A basic repository for electrons to perform training activities on.
 
 After cloning the repo, your task is to:
