@@ -1,5 +1,6 @@
 Feature added ***
 and anotger one
+yes
 
 After cloning the repo, your task is to:
 
