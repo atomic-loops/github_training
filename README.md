@@ -1,5 +1,5 @@
 Feature added ***
-A basic repository for electrons to perform training activities on.
+and anotger one
 
 After cloning the repo, your task is to:
 
